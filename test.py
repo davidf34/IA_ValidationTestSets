@@ -96,7 +96,7 @@ batch_size = 100
 # validation set. 
 validation_split = 0.43
 
-# Identify the feature and the label.
+# Identify the feature and the label
 my_feature = "median_income"    # the median income on a specific city block.
 my_label = "median_house_value" # the median house value on a specific city block.
 # That is, you're going to create a model that predicts house value based 
